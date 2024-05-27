@@ -40,6 +40,7 @@ body{
     text-align: center;
 }
 
+/* added this element and updated the below to include animation, transtion */
 .destination:hover h2{
      transform: rotate(0deg);   
 }
